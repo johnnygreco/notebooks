@@ -91,7 +91,7 @@ ENV/
 .*.swp
 .dropbox.attr
 .DS_Store
-HST-C25/figures
 HST-C25/data
 HST-C25/imfit
-
+*/figures
+*/data
